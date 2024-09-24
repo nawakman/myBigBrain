@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1b1b7ca8acd0b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "open image or video in ASCII art.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b27cad1c946d42ad",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Change cursor.md",
+                "file": "open image or video in ASCII art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Change cursor.md",
+                "file": "open image or video in ASCII art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Change cursor.md"
+                "file": "open image or video in ASCII art.md"
               }
             }
           }
@@ -173,10 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d0804c8c19c0592",
+  "active": "e1b1b7ca8acd0b25",
   "lastOpenFiles": [
-    "Wine/launch games with Wine.md",
+    "open image or video in ASCII art.md",
     "Change cursor.md",
+    "Wine/launch games with Wine.md",
     "notMyDellSSH.pub",
     "notMyDellSSH",
     "Welcome.md",
