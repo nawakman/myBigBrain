@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "launch games with Wine.md",
+                "file": "Wine/launch games with Wine.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d0804c8c19c0592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change cursor.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b27cad1c946d42ad",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "launch games with Wine.md",
+                "file": "Change cursor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "launch games with Wine.md",
+                "file": "Change cursor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "launch games with Wine.md"
+                "file": "Change cursor.md"
               }
             }
           }
@@ -160,10 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b21a0d0f353f97f",
+  "active": "2d0804c8c19c0592",
   "lastOpenFiles": [
+    "Wine/launch games with Wine.md",
+    "Change cursor.md",
+    "notMyDellSSH.pub",
+    "notMyDellSSH",
     "Welcome.md",
-    "launch games with Wine.md",
     "Wine"
   ]
 }
