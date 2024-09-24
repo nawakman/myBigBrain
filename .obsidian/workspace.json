@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "609b71add7d58f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd7ca7d16320ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b21a0d0f353f97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "launch games with Wine.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b27cad1c946d42ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f5e674af49c584",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99c993468917ce64",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce2458c454cb42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4750233c1b2fddc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11ada15dca6ff458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "288203aef6c53db0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d86fc64f4d28681c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ee502e0bc86f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9206b1e16f261d57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "launch games with Wine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9c41082df709f5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "launch games with Wine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3c9a76a03adf11a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbf76b74e92a536f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "launch games with Wine.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2b21a0d0f353f97f",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "launch games with Wine.md",
+    "Wine"
+  ]
+}
