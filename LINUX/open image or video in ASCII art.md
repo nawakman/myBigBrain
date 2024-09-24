@@ -1,3 +1,4 @@
+[[LINUX]]
 for pictures display
 ```bash
 sudo snap install ascii-image-converter

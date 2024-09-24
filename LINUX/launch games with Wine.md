@@ -1,3 +1,4 @@
+[[LINUX]]
 https://www.reddit.com/r/linux_gaming/comments/s7s08a/how_do_i_run_games_through_wine_guide/
 
 First install wine and winetricks (winetricks allows you to install required windows dll)

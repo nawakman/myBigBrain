@@ -4,54 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd7ca7d16320ab2",
+        "id": "a395096f2440416a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b21a0d0f353f97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wine/launch games with Wine.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d0804c8c19c0592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Change cursor.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1b1b7ca8acd0b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "open image or video in ASCII art.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b27cad1c946d42ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02f5e674af49c584",
+            "id": "d35fab942c1afcaf",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -124,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "open image or video in ASCII art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "open image or video in ASCII art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "open image or video in ASCII art.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,14 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1b1b7ca8acd0b25",
+  "active": "d35fab942c1afcaf",
   "lastOpenFiles": [
-    "open image or video in ASCII art.md",
-    "Change cursor.md",
-    "Wine/launch games with Wine.md",
-    "notMyDellSSH.pub",
-    "notMyDellSSH",
-    "Welcome.md",
-    "Wine"
+    "INTERESTING/INTERESTING.md",
+    "GAMEDEV/Unity/Unity.md",
+    "GAMEDEV/Unity/Animation/Animation.md",
+    "GAMEDEV.md",
+    "GAMEDEV/Blender/Blender.md",
+    "INTERESTING/steganography/howToOpenChest.md",
+    "GAMEDEV/Blender/BakeTextureToObject/Bake textures from an object to another.md",
+    "GAMEDEV/Blender/BakeTextureToObject/bakedGrogu.png",
+    "GAMEDEV/Blender/BakeTextureToObject/groguVersions.png",
+    "GAMEDEV/Blender/Bake textures to objects.md",
+    "GAMEDEV/Blender/BakeTextureToObject/awfulTexture.jpg",
+    "GAMEDEV/Blender/BakeTextureToObject",
+    "GAMEDEV/Blender/New folder",
+    "GAMEDEV/Blender/awfulTexture.jpg",
+    "GAMEDEV/Blender/model_dense_mesh_refine_texture_material_0_map_Kd.jpg",
+    "GAMEDEV/Blender",
+    "GAMEDEV",
+    "INTERESTING/steganography/DefinitelyJustAPicture.png",
+    "LINUX/open image or video in ASCII art.md",
+    "INTERESTING/steganography/howToOpenChest.txt",
+    "INTERESTING/steganography",
+    "INTERESTING/New folder",
+    "INTERESTING",
+    "New folder",
+    "GAMEDEV/Unity/Animation/Mixamo to Unity (bad idea).md",
+    "GAMEDEV/Unity/Animation/Blender to Unity.md",
+    "GAMEDEV/Unity",
+    "LINUX/LINUX.md",
+    "GAMEDEV/Unity/Animation/Mixamo to Blender.md",
+    "LINUX/launch games with Wine.md",
+    "LINUX/Change cursor.md",
+    "Welcome.md"
   ]
 }

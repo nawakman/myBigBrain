@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:LINUX",
+      "color": {
+        "a": 1,
+        "rgb": 5160707
+      }
+    },
+    {
+      "query": "path:GAMEDEV",
+      "color": {
+        "a": 1,
+        "rgb": 5073918
+      }
+    },
+    {
+      "query": "path:INTERESTING  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737894
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0.462577962577963,
+  "repelStrength": 9.16839916839917,
+  "linkStrength": 0.628898128898129,
+  "linkDistance": 150,
+  "scale": 0.8854989543150436,
+  "close": false
 }

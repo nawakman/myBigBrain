@@ -1,3 +1,4 @@
+[[LINUX]]
 ```bash
 sudo apt intall gnome-tweaks
 pipx install win2xcur
