@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a395096f2440416a",
+        "id": "a9c0c48f60f974c6",
         "type": "tabs",
         "children": [
           {
-            "id": "d35fab942c1afcaf",
+            "id": "9aa8938c8761710f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,15 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d35fab942c1afcaf",
+  "active": "9aa8938c8761710f",
   "lastOpenFiles": [
+    "GAMEDEV/Blender/BakeTextureToObject/Bake textures from an object to another.md",
+    "GAMEDEV/AutoHotKey Rule of Three.md",
+    "GAMEDEV/UnrealEngine/UE4 problems.md",
+    "GAMEDEV/UnrealEngine/UnrealEngine.md",
+    "GAMEDEV/UnrealEngine",
+    "INTERESTING/My first gaming PC.md",
+    "INTERESTING/Make Windows talk.md",
+    "Untitled.md",
     "INTERESTING/steganography/Steganography.md",
     "INTERESTING/INTERESTING.md",
     "GAMEDEV/Unity/Unity.md",
     "GAMEDEV/Unity/Animation/Animation.md",
     "GAMEDEV/GAMEDEV.md",
     "GAMEDEV/Blender/Blender.md",
-    "GAMEDEV/Blender/BakeTextureToObject/Bake textures from an object to another.md",
     "GAMEDEV/Blender/BakeTextureToObject/bakedGrogu.png",
     "GAMEDEV/Blender/BakeTextureToObject/groguVersions.png",
     "GAMEDEV/Blender/Bake textures to objects.md",
@@ -166,7 +173,6 @@
     "New folder",
     "GAMEDEV/Unity/Animation/Mixamo to Unity (bad idea).md",
     "GAMEDEV/Unity/Animation/Blender to Unity.md",
-    "GAMEDEV/Unity",
     "LINUX/LINUX.md",
     "GAMEDEV/Unity/Animation/Mixamo to Blender.md",
     "LINUX/launch games with Wine.md",
