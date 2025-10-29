@@ -43,6 +43,7 @@ Open Inkscape,
 	- Z depth is the deepest the blade will enter in the material, **it is not an offset but a coordinate too**
 	- I have a 3.6 tool offset (z distance with nozzle) and want to cut into 1.65mm acrylic so I put Z depth=5.25 and Z surface=6
 	- 2 arrows with coordinates will appear, don't touch them
+- `NOTE:`the path you want to trace needs to be in the same layer as g20 (tool) and g22 (orientation points) folders, don't forget to select your path after that
 - `Gcode tools>>Path To Gcode`
 	- In preference put the file name ending by `.gcode`
 	- "Z safe height for G00 move over blank" is the height it should be to not touch cutting surface when moving, it **MUST BE GREATER OR EQUAL TO Z SURFACE**
